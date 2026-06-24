@@ -37,7 +37,7 @@ A fun and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[GitHub Pages Link](https://github.com/Prachi-co/Tic-Tac-Toe/new/main?filename=README.md)
+[GitHub Pages Link](https://prachi-co.github.io/Tic-Tac-Toe/))
 
 ## Project Structure
 ```text

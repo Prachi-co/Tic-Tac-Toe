@@ -24,23 +24,23 @@ A fun and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## Screenshots
 
 ### Home Screen
-[Home Screen](assets/home.png)
+![Home Screen](assets/home.png)
 
 ### Food Selection Screen
-[Food Selection](assets/food-selection.png)
+![Food Selection](assets/food-selection.png)
 
 ### Game Board
-[Game Board](assets/game-board.png)
+![Game Board](assets/game-board.png)
 
 ### Winner Popup
-[Winner Popup](assets/winner-popup.png)
+![Winner Popup](assets/winner-popup.png)
 
 ## Live Demo
 
 [GitHub Pages Link](https://github.com/Prachi-co/Tic-Tac-Toe/new/main?filename=README.md)
 
 ## Project Structure
-
+```text
 Tic-Tac-Toe/
 │
 ├── index.html
@@ -49,6 +49,7 @@ Tic-Tac-Toe/
 ├── HomePage.js
 ├── Play.js
 └── README.md
+```
 
 ## Author
 
